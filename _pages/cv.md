@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 
-<a href="tolgabenzer.github.io/files/tolga_benzer_cv_git.pdf" target="_blank">Click here to see my CV.</a>
-
-
+<u><a style="line-height: 1.5;" href="tolgabenzer.github.io/files/tolga_benzer_cv_git.pdf"><span style="color: #333333;"><span>Click here to see my CV.</span></span></a></u>
