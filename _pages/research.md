@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Work in Progress:
+## Work in Progress:
 
 * Islamic Schools and Female Education
 * Islamic Schools and Political Islam
