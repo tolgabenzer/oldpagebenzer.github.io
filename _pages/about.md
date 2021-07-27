@@ -10,4 +10,4 @@ redirect_from:
 
 I am a PhD Candidate in the [Department of Economics](https://www.aalto.fi/en/department-of-economics) at the Aalto University (Finland) and [Helsinki GSE](https://www.helsinkigse.fi).
 
-My research interests lie at the intersection of development and labor economics with a focus on economics of culture and religion. I am also interested in political economy and economic history.
+My research interests lie at the intersection of development economics and political economy with a focus on economics of culture and religion. I am also interested in economic history.
