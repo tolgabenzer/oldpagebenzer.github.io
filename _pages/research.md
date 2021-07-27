@@ -11,4 +11,4 @@ author_profile: true
 * Removing Cultural Barriers to Education: State-run Islamic Schools and Female Education in Turkey (Draft Available Upon Request)
 * Islamic Schools and Political Islam
 * Christian Missions and Political Islam
-* Oil boom and the Rise of Islamic Schooling in Mali
+
