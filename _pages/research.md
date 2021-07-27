@@ -8,6 +8,7 @@ author_profile: true
 
 ## Work in Progress:
 
-* Islamic Schools and Female Education (Draft Available Upon Request)
+* Removing Cultural Barriers to Education: State-run Islamic Schools and Female Education in Turkey (Draft Available Upon Request)
 * Islamic Schools and Political Islam
+* Christian Missions and Political Islam
 * Oil boom and the Rise of Islamic Schooling in Mali
