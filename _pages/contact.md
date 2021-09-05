@@ -9,4 +9,4 @@ author_profile: true
 * Address: Ekonominaukio 1, 02150 Espoo, Finland
 
 
-![](images/.png)
+![](images/benzer_photo.png)
