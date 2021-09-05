@@ -11,7 +11,7 @@ redirect_from:
 
 
   
-<img src="benzer_photo_zoom_resize.png" align="left"/>
+<img src="./benzer_photo_zoom_resize.png" align="left"/>
   
 I am a PhD Candidate in the [Department of Economics](https://www.aalto.fi/en/department-of-economics) at the Aalto University (Finland) and [Helsinki GSE](https://www.helsinkigse.fi).
 
