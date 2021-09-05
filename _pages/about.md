@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://github.com/tolgabenzer/tolgabenzer.github.io/blob/master/images/benzer_photo_zoom.png" width=500 height=500 align=left>
+<img src="https://github.com/tolgabenzer/tolgabenzer.github.io/blob/master/images/benzer_photo_zoom.png" width=500 height=500 align=left />
 
 I am a PhD Candidate in the [Department of Economics](https://www.aalto.fi/en/department-of-economics) at the Aalto University (Finland) and [Helsinki GSE](https://www.helsinkigse.fi).
 
