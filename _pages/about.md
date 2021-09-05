@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
   
-<img style="float: left; padding-right: 50px;" src="https://user-images.githubusercontent.com/59729056/132135190-2d134213-c4a4-404c-a132-6b82c2c56aea.png" align="left">
+<img style="float: left; padding-right: 25px;" src="https://user-images.githubusercontent.com/59729056/132135190-2d134213-c4a4-404c-a132-6b82c2c56aea.png" align="left">
 
 I am a PhD Candidate in the [Department of Economics](https://www.aalto.fi/en/department-of-economics) at the Aalto University School of Business (Finland) and [Helsinki GSE](https://www.helsinkigse.fi).
 
