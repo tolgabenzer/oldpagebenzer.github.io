@@ -14,7 +14,7 @@ I am a PhD Candidate in the [Department of Economics](https://www.aalto.fi/en/de
 
 My research interests lie at the intersection of development economics and political economy with a focus on economics of culture and religion. I am also interested in economic history.
 
-I am on the 2021/2022 job market and will be available for interviews at EJME 2021 in December or on demand.
+I am on the 2021/2022 academic job market and will be available for interviews at EJME 2021 in December or on demand.
 
 
 
