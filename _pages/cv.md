@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<a href="https://tolgabenzer.github.io/files/cv_benzer.pdf" target="_blank">Click here to see my CV.</a>
+<a href="https://tolgabenzer.github.io/files/benzer_cv.pdf" target="_blank">Click here to see my CV.</a>
