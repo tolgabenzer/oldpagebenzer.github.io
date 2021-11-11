@@ -14,7 +14,7 @@ author_profile: true
 
 <ins>**Presented at:**</ins> *2021 ASREC Job Market Workshop, 2021 EEA-ESEM Summer Congress, Turku School of Economics, Helsinki GSE, 2020 Finnish Economic Association Meetings* 
 
-* ### <a href="https://tolgabenzer.github.io/files/paper_elections_benzer.pdf" target="_blank">Islamic Schools and Political Islam</a>
+* ### <a href="https://tolgabenzer.github.io/files/paper_elections_benzer.pdf" target="_blank">State-run Islamic Schools and Political Islam</a>
 
 <ins>Abstract:</ins> This paper studies the impact of the establishment of state-run Islamic schools during the 1970s on electoral outcomes in Turkey. Exploiting the variation in exposure to Islamic schools across district centers and election years, I find that district centers with an Islamic school voted significantly more for Islamist parties after exposure to Islamic schools. The effect appears after prolonged exposure to Islamic schools, once affected student cohorts came of voting age. The faster increase in Islamist support is more pronounced in district centers with initial lower attachment to secularist parties that were right-wing strongholds. Last, I provide evidence that the differential increase in support for Islamist parties was not driven by Islamic brotherhoods, geographic sorting, or economic liberalization. My findings indicate that policymakers with religious affiliations can utilize religious schooling as centers for the promotion of religious politics to achieve electoral success in secular electoral democracies.
 
