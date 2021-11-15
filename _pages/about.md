@@ -16,9 +16,7 @@ My research interests lie at the intersection of development economics and polit
 
 I am on the 2021/2022 academic job market and will be available for interviews at EJME 2021 in December or on demand.
 
+Please find my curriculum vitae [here](https://tolgabenzer.github.io/files/benzer_cv.pdf) and my job market paper [here](https://tolgabenzer.github.io/files/benzer_jmp.pdf).
 
-
-
-
-
+E-mail: [tolga.benzer@aalto.fi](mailto:tolga.benzer@aalto.fi)
 
