@@ -14,8 +14,6 @@ I am a PhD Candidate in Economics at the [Aalto University School of Business](h
 
 My research interests lie at the intersection of labor, development and political economics with a focus on culture and education. I am also interested in economic history.
 
-I am on the 2021/2022 academic job market and will be available for interviews at EJME 2021 in December or on demand.
-
 Please find my curriculum vitae [here](https://tolgabenzer.github.io/files/benzer_cv.pdf) and my job market paper [here](https://tolgabenzer.github.io/files/benzer_jmp.pdf).
 
 E-mail: [tolga.benzer@aalto.fi](mailto:tolga.benzer@aalto.fi)
