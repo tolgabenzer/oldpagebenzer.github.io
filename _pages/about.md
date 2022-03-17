@@ -18,5 +18,5 @@ Please find my curriculum vitae [here](https://tolgabenzer.github.io/files/benze
 
 E-mail: [tolga.benzer@aalto.fi](mailto:tolga.benzer@aalto.fi) 
 
-        [tolga.benzer@gmail.com](mailto:tolga.benzer@gmail.com)
+Alternative E-mail:    [tolga.benzer@gmail.com](mailto:tolga.benzer@gmail.com)
 
