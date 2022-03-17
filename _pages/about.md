@@ -16,5 +16,6 @@ My research interests lie at the intersection of labor, development and politica
 
 Please find my curriculum vitae [here](https://tolgabenzer.github.io/files/benzer_cv.pdf) and my research [here](https://tolgabenzer.com/research/).
 
-E-mail: [tolga.benzer@aalto.fi](mailto:tolga.benzer@aalto.fi)
+E-mail: [tolga.benzer@aalto.fi](mailto:tolga.benzer@aalto.fi) 
+        [tolga.benzer@gmail.com](mailto:tolga.benzer@gmail.com)
 
