@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Working Paper:
+## Working Papers:
 
 * ### <a href="https://tolgabenzer.github.io/files/benzer_jmp.pdf" target="_blank">Removing Cultural Barriers to Education: State-run Islamic Schools and Girls' Education in Turkey</a>
 
