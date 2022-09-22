@@ -6,16 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GLY33G8XST"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GLY33G8XST');
-</script>
 ---
 
 <img style="float: left; padding-right: 25px;" src="https://user-images.githubusercontent.com/59729056/132135190-2d134213-c4a4-404c-a132-6b82c2c56aea.png" align="left">
