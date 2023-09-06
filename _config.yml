@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tolga Benzer"
 title_separator          : "-"
 name                     : &name "Tolga Benzer"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Ph.D. in Economics"
 url                      : https://tolgabenzer.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tolgabenzer.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tolga Benzer"
   avatar           : "benzer_photo_zoom.png"
-  bio              : "Postdoctoral Researcher"
+  bio              : 
   location         : "Helsinki, Finland"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : tolga.benzer@utu.fi
+  email            : tolga.benzer@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tlgbnzr"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
