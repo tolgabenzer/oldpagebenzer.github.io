@@ -12,5 +12,5 @@ redirect_from:
 
 I received my PhD in Economics from Aalto University School of Business in 2022. You may contact me using the email below.
 
-E-mail:    [tolga.benzer@gmail.com](mailto:tolga.benzer@gmail.com)
+E-mail:    [tolga.benzer@gmail.com](mailto:tolga.benzer@gmail.com) or [tolga.benzer@utu.fi](mailto:tolga.benzer@utu.fi)
 
